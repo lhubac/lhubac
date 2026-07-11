@@ -1,6 +1,4 @@
-# 👋 Ahoj!
-
-> ## 🤝 Sdílený kód roste. Sdílená zkušenost šetří čas.
+## 🤝 Sdílený kód roste. Sdílená zkušenost šetří čas.
 
 Pokud ti některý z projektů ušetřil čas, nervy nebo několik hodin práce, můžeš mě symbolicky podpořit.
 
@@ -14,9 +12,7 @@ Děkuji! ❤️ Každá podpora mi pomáhá věnovat open source projektům víc
 
 ---
 
-# 👋 Hi!
-
-> ## 🤝 Shared code grows. Shared knowledge saves time.
+## 🤝 Shared code grows. Shared knowledge saves time.
 
 If one of my projects saved you time, frustration, or a few hours of work, you can support my work with a symbolic banana.
 
