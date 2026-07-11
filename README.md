@@ -2,8 +2,6 @@
 
 > ## 🤝 Sdílený kód roste. Sdílená zkušenost šetří čas.
 
-## 🍌 Kup mi banán
-
 Pokud ti některý z projektů ušetřil čas, nervy nebo několik hodin práce, můžeš mě symbolicky podpořit.
 
 <p align="center">
@@ -19,8 +17,6 @@ Děkuji! ❤️ Každá podpora mi pomáhá věnovat open source projektům víc
 # 👋 Hi!
 
 > ## 🤝 Shared code grows. Shared knowledge saves time.
-
-## 🍌 Buy me a banana
 
 If one of my projects saved you time, frustration, or a few hours of work, you can support my work with a symbolic banana.
 
